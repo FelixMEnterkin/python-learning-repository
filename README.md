@@ -1,2 +1,3 @@
 # python-learning-repository
-I will use this to store Python code from workshops
+Snippets of Code from Python tutorials and workshops
+
