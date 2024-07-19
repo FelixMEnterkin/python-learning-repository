@@ -125,4 +125,6 @@ if file:
  The index html is a file that every website has that specifies how the website appears
  we can includfe our python code in the file
  
+
+ you cannot do this if the repo is private 
  '''
